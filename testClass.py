@@ -1,7 +1,5 @@
 from scraper import loadPage, parsePage
-import asyncio
 import pytest
-import time
 import requests
 
 class TestClass:

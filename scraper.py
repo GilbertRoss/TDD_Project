@@ -1,9 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from bs4 import BeautifulSoup
-import time
-import asyncio
-
 
 
 def loadPage(author, name):
